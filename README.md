@@ -3,7 +3,6 @@
 <br>
 ⚡ Fun fact: I am very incompetent
 
-
 ## 🌐 Socials:
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/l) 
 
