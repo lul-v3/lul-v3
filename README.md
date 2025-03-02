@@ -1,15 +1,6 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is lulv3
-=============================================================================================================================
 
 Experimental Software Developer
 -------------------------------
-
-👋 Hey there! I’m lulv3 – a developer, experimenter, and proud creator of “unintended features.” I’ve been coding since I was 11, driven by sheer curiosity (and, occasionally, by the need to fix whatever I broke). 
-I started with HTML, CSS, and JavaScript – because, let’s face it, every developer needs a website with at least one blinking element. 
-By 14, I dove into C# and decided to make my own code editor – just because, right? Python also popped by for a visit. 
-At 16, I hit the game dev level-up: first with Unity, then onto Unreal Engine at 17 (because nothing says "serious" like accidentally breaking physics in Unreal). 
-Coding for the fun, not for the fame – my projects are powered by curiosity and a “why not?” mindset. 
-If it works, awesome. If not… well, maybe it’s just an unexpected feature.
 
 *   🌍  I'm based in Oldenburg, Lower Saxony, Germany
 *   🖥️  See my portfolio at [lulv3](http://lulv3.com)
