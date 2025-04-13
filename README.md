@@ -4,7 +4,7 @@ Experimental Software Developer
 
 *   🌍  I'm based in Oldenburg, Lower Saxony, Germany
 *   ✉️  You can contact me at [contact@lulv3.com](mailto:contact@lulv3.com)
-*   🧠  I'm learning OpenGL
+*   🧠  I'm learning Vulkan
 *   ⚡  I'm secretly Spiderman... but don't tell anyone
 
 ### Skills 
